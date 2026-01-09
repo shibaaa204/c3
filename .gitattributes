@@ -1,5 +1,0 @@
-# Mark everything as vendored (bỏ qua khi tính language)
-* linguist-vendored
-
-# Nhưng đếm các file Python
-*.go linguist-vendored=false
